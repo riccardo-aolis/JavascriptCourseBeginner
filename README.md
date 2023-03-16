@@ -1,2 +1,2 @@
 # JavascriptCourseBeginner
-Javascript course for beginners
+Javascript course for beginners, work in progress
